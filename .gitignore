@@ -1,0 +1,8 @@
+#Unfinished Code
+Experiment_*
+#API SECRETS
+SECRETS*
+#log files
+*.log
+#MP3 files used for testing
+*.mp3
